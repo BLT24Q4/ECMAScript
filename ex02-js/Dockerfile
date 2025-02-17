@@ -16,3 +16,4 @@ EXPOSE 80
 ENTRYPOINT ["nginx"]
 CMD ["-g", "daemon off;"]
 # ENTRYPOINT + CMD 조합
+
